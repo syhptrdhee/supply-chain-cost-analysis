@@ -70,5 +70,6 @@ Quality considerations can significantly alter cost comparisons between supplier
 
 
 ## Disclaimer
-This project was created for **academic and educational purposes only**.  
-The data and analysis are used solely for learning and demonstration purposes and do not represent actual business decisions or recommendations.
+This project was created for learning purposes only.
+The dataset is sourced from DataCamp Case Studies and does not represent real business conditions.
+All analyses and insights are based on simulated data for educational use.
